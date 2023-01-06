@@ -1,4 +1,4 @@
-package Ejercicio01;
+package Ejercicio01_TipoDatos;
 
 public class EjerciciosTema01 {
 

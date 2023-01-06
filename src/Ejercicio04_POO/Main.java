@@ -1,4 +1,4 @@
-package POO;
+package Ejercicio04_POO;
 
 /**
  * En este ejercicio tendréis que crear una clase SmartDevice. Dentro crearéis las clases hijas: SmartPhone y SmartWatch.

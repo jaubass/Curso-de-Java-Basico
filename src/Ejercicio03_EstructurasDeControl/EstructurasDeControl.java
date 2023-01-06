@@ -1,4 +1,4 @@
-package Ejercicio03;
+package Ejercicio03_EstructurasDeControl;
 
 public class EstructurasDeControl {
 

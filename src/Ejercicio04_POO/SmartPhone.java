@@ -1,4 +1,4 @@
-package POO;
+package Ejercicio04_POO;
 
 public class SmartPhone extends SmartDevice {
 
