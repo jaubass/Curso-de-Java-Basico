@@ -6,13 +6,10 @@ capturada por su llamante (desde "main", por ejemplo). Si se dispara la excepci√
 Finalmente, mostraremos en cualquier caso: "Demo de c√≥digo".
  */
 
-import java.io.IOException;
-
 public class DividePorCero {
     public static void main(String[] args) {
 
         DividePorCero(4, 2);
-
     }
 
     public static int DividePorCero (int A, int B) throws ArithmeticException {
